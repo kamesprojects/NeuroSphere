@@ -1,5 +1,5 @@
 # NeuroSphere
-
+## Toto som nepísal ja hej to písal Github Kopilot, bo še mi nechcelo písac ta tu máš návod choľem:
 NeuroSphere is a small interactive 3D web game / demo built with React, Vite and react-three-fiber.
 It showcases a stylized spherical robot guide in a rotating starfield. The scene supports pointer interactions (drag to rotate) and—when implemented—mouse wheel or touch pinch to scale the robot.
 
