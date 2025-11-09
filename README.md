@@ -9,6 +9,12 @@ It showcases a stylized spherical robot guide in a rotating starfield. The scene
 - Themed UI using Tailwind-compatible CSS.
 - Modular structure with separate components, models and pages.
 
+## Clone this Repo
+```bash
+git clone https://github.com/kamesprojects/NeuroSphere.git
+cd Neurospere/
+```
+
 ## Controls
 - Drag with mouse / touch to rotate the robot.
 - Mouse wheel or touch pinch: change robot scale (if implemented in the current branch).
