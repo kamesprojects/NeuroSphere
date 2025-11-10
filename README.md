@@ -59,6 +59,12 @@ Open the browser at the address shown by Vite (usually http://localhost:5173).
 - If you want scaling via mouse wheel and pinch gestures: the easiest approach is to store a `scale` state in the `Home` component and pass `setScale` to the `SphereGuide` so it can update scale on `wheel` events and touch gesture handlers. Limit scale with `scaleLimits` to avoid accidental huge/small sizes.
 - Consider adding simple unit/integration tests for core UI behaviors and an accessibility pass for keyboard-only navigation.
 
+## 3D models:
+- You have to download the .GLB 3D model from website bellow
+- SketchFab: `[Link text] (https://sketchfab.com/3d-models)`
+- And than you have to convert the GLB -> REACT code `[Link text] (https://gltf.pmnd.rs/)`, in the `top right` corner press `rightArrow` and and the bottom of the list You will find `Export option` and click on `Copy to Clipboard.`
+- Than put the `.glb 3D model` into `assets/3d/` directory and `copy and paste` converted code into `models/` directory in `.jsx format`
+
 ## Contributing
 Feel free to open issues or PRs. For changes that affect public APIs or component props, add a short note in the PR description.
 
